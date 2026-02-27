@@ -151,5 +151,10 @@
       <summary>Icon styles</summary>
       <description>Set the style for the displayed sensor icons ('original', 'updated')</description>
     </key>
+    <key type="b" name="show-multimonitor">
+      <default>false</default>
+      <summary>Show on all panels</summary>
+      <description>When Dash to Panel is installed, show Vitals on all panels instead of just the primary</description>
+    </key>
   </schema>
 </schemalist>
